@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 Custom QR Code Maker
+# 🖼️ Custom QR Code Maker
 
 ### Use Custom QR Code Maker free on ToolAdda — quick, accurate, and browser-based.
 
